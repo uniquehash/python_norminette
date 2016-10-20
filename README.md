@@ -11,4 +11,26 @@ norminette goes down, we want to have a local copy.
 Have a functional working version of norminette.
 
 ## assumptions 
-* WE CAN DO IT.
+	* WE CAN DO IT.
+
+## glossary 
+
+	* user:
+		* 42 students, and possibly graduates
+
+	* problem: 
+		* having a local option under student control for checking the norm code style
+
+	* scope:
+		* set up our environment
+		* design the architecture
+		* check for standard header
+		* implement whitespace
+		* implement linecount
+		* implement number of functions
+		* eof line
+		* number of variables
+
+## modules:
+	* [os.path](https://docs.python.org/2/library/os.path.html)
+	
